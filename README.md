@@ -1,2 +1,2 @@
-# AI_Based_Resume_Screening_System
-It consist of both Resume Category prediction and Resume ranking system. 
+# AI Based Resume Ranking System
+It is used to categories the Rank of the uploaded resumes based on the given job.
